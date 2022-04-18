@@ -1,4 +1,4 @@
 # Для запуска проекта:
-# npm install
-# npm run build
+# Скачать архив
+# запустить файл index.html из папки bundles в браузере
 
